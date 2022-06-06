@@ -2,6 +2,7 @@
 Overview
 --
 The goal of this analysis is to create automated data pipeline using the extract, transform and load (ETL) process. 
+
 ETL_function_test.ipynb
 --
 Firstly, I created ETL_function_test.ipynb to extract data from JSON and CVS formats and transformed dats into a Pandas DataFrame. 
